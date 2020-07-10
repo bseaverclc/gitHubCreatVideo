@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var test = "Made a variable"
 // Testing Git Hub
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,6 +17,7 @@ class ViewController: UIViewController {
     }
     
     // Comment test
+    
 
 
 }
